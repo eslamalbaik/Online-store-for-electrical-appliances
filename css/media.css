@@ -1,0 +1,33 @@
+@media screen and (max-width:984px) {
+    .divsearch{
+        width: 100%;
+        text-align: center;
+    }
+    .logodiv{
+        width: 100%;
+        text-align: center;
+    }
+    #sub-footer-1{
+        width: 100%;
+        float: right;
+        margin: auto;
+    }
+    
+    #sub-footer-2{
+        width: 100%;
+        float: right;
+        margin: auto;
+        height: 180px;
+    }
+    
+    #sub-footer-3{
+        width: 100%;
+        float: right;
+        margin: auto;
+    }
+
+    #footer{
+        height: 600px;
+    }
+}
+

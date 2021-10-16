@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: 'droid';
+    src: url('font/DroidKufi-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'droid_naskh';
+    src: url('font/DroidNaskh-Regular.ttf');
+}
+
+@font-face{
+font-family:"GE_SS_Two_Bold";
+src:url("font/GE_SS_Two_Bold.otf") format("truetype");
+}
+@font-face {
+    font-family: 'GESSTOW_Light';
+    src: url('font/GE_SS_Two_Light.eot');
+    src: url('font/GE_SS_Two_Light.eot?#iefix') format('embedded-opentype'),
+        url('font/GE_SS_Two_Light.woff') format('woff'),
+         url('font/GE_SS_Two_Light.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSTOW_Medium';
+    src: url('font/GE_SS_Two_Medium.eot');
+    src: url('font/GE_SS_Two_Medium.eot?#iefix') format('embedded-opentype'),
+        url('font/GE_SS_Two_Medium.woff') format('woff'),
+         url('font/GE_SS_Two_Medium.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GESSTOW_Bold';
+    src: url('font/GE_SS_Two_Bold.eot');
+    src: url('font/GE_SS_Two_Bold.eot?#iefix') format('embedded-opentype'),
+        url('font/GE_SS_Two_Bold.woff') format('woff'),
+         url('font/GE_SS_Two_Bold.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MyTestMedium";
+    src: url('font/TanseekModernProArabic1.eot');
+    src: url('font/TanseekModernProArabic1.eot?#iefix') format('embedded-opentype'),
+         url('font/TanseekModernProArabic2.woff') format('woff'),
+         url('font/TanseekModernProArabic3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "MyTestBold";
+    src: url('font/TanseekModernProArabic-Bold1.eot');
+    src: url('font/TanseekModernProArabic-Bold1.eot?#iefix') format('embedded-opentype'),
+         url('font/TanseekModernProArabic-Bold2.woff') format('woff'),
+         url('font/TanseekModernProArabic-Bold3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
